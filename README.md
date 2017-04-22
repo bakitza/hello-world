@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+
+I am Gullivera, a friend of Houyhnhnms. 
